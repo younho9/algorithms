@@ -1,0 +1,11 @@
+{
+	"name": "@younho9/algorithms",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"test": "vitest --watch"
+	},
+	"devDependencies": {
+		"vitest": "^0.32.2"
+	}
+}
